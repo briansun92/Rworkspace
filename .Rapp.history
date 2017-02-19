@@ -1,0 +1,25 @@
+exit
+quit
+？quit
+?quit
+a
+a ->
+d
+source("http://bioconductor.org/biocLite.R")
+biocLite()
+biocLite("BiocGenerics")
+biocLite(lgfortran)
+biocLite("lgfortran")
+library(lgfortran)
+install.packages("lgfortran")
+install.package("KernSmooth")
+install.packages("KernSmooth")
+KernSmooth
+library(KernSmooth)
+a <-
+f
+a <- available.packages()
+head(rownames(a), 3)
+getwd()
+dir()
+ls
